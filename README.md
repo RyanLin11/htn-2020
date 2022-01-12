@@ -3,6 +3,9 @@
 ## Devpost Link
 [https://devpost.com/software/the-vaccine-labyrinth](https://devpost.com/software/the-vaccine-labyrinth)
 
+## Team Members
+Ryan Lin, Star Xie, Nathan Lo, Matthew Gong
+
 ## Inspiration
 
 During this pandemic, we were inspired by the researchers who are working diligently to get us a lifesaving vaccine. To make their challenges relatable to the everyday person, we created The Vaccine Labyrinth, a maze that forces the player to overcome obstacles, complete challenges, and navigate corridors to reach the vaccine. The game becomes more difficult over time, simulating the race against time for researchers to prevent the disease from spreading. 
